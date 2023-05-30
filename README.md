@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sanjeev Pathak</h1>
 <h3 align="center">Innovative Web Developer and Coding Enthusiast from Incredible India!</h3>
 
-<p align="left"> <img src="https://drive.google.com/file/d/17243bIo14V3I12HpGEjM8kRl3ga0jzAA/view?usp=sharing" alt="gaurav9359" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/17243bIo14V3I12HpGEjM8kRl3ga0jzAA/view" alt="gaurav9359" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
