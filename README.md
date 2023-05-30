@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sanjeev Pathak</h1>
 <h3 align="center">Innovative Web Developer and Coding Enthusiast from Incredible India!</h3>
 
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=gaurav9359&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/564x/e9/fe/9e/e9fe9ec527346841327a10adb658ea04.jpg)" alt="gaurav9359" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav9359" alt="gaurav9359" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **React project**
 
@@ -29,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav9359&show_icons=true&locale=en&layout=compact" alt="gaurav9359" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav9359&show_icons=true&locale=en" alt="gaurav9359" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav9359&" alt="gaurav9359" /></p>
