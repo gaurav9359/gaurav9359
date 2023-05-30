@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gaurav Sanjeev Pathak</h1>
-<h3 align="center">Innovative Web Developer and Coding Enthusiast from Incredible India!</h3>
+
 
 <p align="center"> <img src="https://i.pinimg.com/564x/e9/fe/9e/e9fe9ec527346841327a10adb658ea04.jpg" alt="gaurav9359" /> </p>
+<br/>
+
+<h1 align="center">Hi 👋, I'm Gaurav Sanjeev Pathak</h1>
+<br/>
+<h3 align="center">Innovative Web Developer and Coding Enthusiast from Incredible India!</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="meme" width="180" src="https://i.pinimg.com/564x/c7/ad/9f/c7ad9f7dc972d38e9853257d92925a32.jpg">
 
 - 🔭 I’m currently working on **React project**
 
