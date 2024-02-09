@@ -12,13 +12,13 @@
 
 <img align="right" alt="meme" width="190" src="https://i.pinimg.com/564x/c7/ad/9f/c7ad9f7dc972d38e9853257d92925a32.jpg">
 
-- 🔭 I’m currently working on **React project**
+- 🔭 I’m currently working on **Full Stack Project**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Cloud**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **React,problem solving, frontend development,**
+- 💬 Ask me about **MERN, Full Stack, C++, DSA**
 
 - 📫 How to reach me **gauravpathak9359@gmail.com**
 
