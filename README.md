@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **React,problem solving, frontend development,**
 
